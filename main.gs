@@ -3,8 +3,7 @@
  * Description: A comprehensive system for tracking job applications from lead generation to final status,
  *              integrating email parsing (job alerts & application updates), spreadsheet management,
  *              and dashboard analytics.
- * Author: Francis John LiButti (Originals), AI Integration & Refinements by Assistant,
- *         Integrated system design with Assistant
+ * Author: Francis John LiButti 
  * Current Version: v4.0 (Milestone: "Integrated Leads & Tracker System")
  * Key Changes in v4.0:
  *   - Integrated "Job Leads Tracker" functionality as a new module.
@@ -13,8 +12,7 @@
  *   - Master setup function for full system initialization.
  *   - Enhanced Gmail filter creation for both modules.
  *   - Robust label ID fetching using Advanced Gmail Service.
- * Original Job Application Tracker was v3.1.
- * Date: [Current Date of this milestone, e.g., May 21, 2025]
+ * Date: May 21, 2025]
  */
 
 // --- Initial Setup Function ---
