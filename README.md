@@ -1,4 +1,4 @@
-# Career_Suite_v4
+# Career_Suite_AI_v4
 # 🤖 Master Job Manager: An AI-Powered Job Application CRM in Google Sheets **REVISED NAME**
 
 **The Master Job Manager transforms your Gmail and Google Sheets into an intelligent, automated system that manages the entire job application lifecycle, from lead generation to final status.**
